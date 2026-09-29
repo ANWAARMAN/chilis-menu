@@ -1,0 +1,24 @@
+{
+  "project": "Chili's Menu Reference",
+  "website": "https://thechilimenu.com/",
+  "items": [
+    {
+      "category": "Chicken",
+      "item": "Big Crispy Chicken Sandwich",
+      "price": 15.49,
+      "calories": 880
+    },
+    {
+      "category": "Shareables",
+      "item": "Triple Dipper",
+      "price": 16.99,
+      "calories": 3040
+    },
+    {
+      "category": "Ribs",
+      "item": "Full Rack of Ribs",
+      "price": 26.99,
+      "calories": 2160
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Chili's Menu Reference",
+  "description": "Structured reference data for Chili's menu items, prices, calories, and categories.",
+  "website": "https://thechilimenu.com/",
+  "fields": {
+    "category": "Menu category",
+    "item": "Menu item name",
+    "price": "Listed menu price in USD",
+    "calories": "Listed calories per menu item"
+  },
+  "source_note": "Menu information should be verified against the current menu before use."
+}
